@@ -1,0 +1,4 @@
+{
+		"executable": "C:\\cc65\\bin\\cl65.exe",
+		"params": "--verbose --target nes -o smb1.nes"
+}

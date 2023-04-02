@@ -3,14 +3,14 @@ info	csym=0,file=2,lib=0,line=22,mod=1,scope=2,seg=10,span=21,sym=3,type=3
 file	id=0,name="smb1.asm",size=443,mtime=0x640D5FE8,mod=0
 file	id=1,name="bg-spr.chr",size=8192,mtime=0x63C54292,mod=0
 line	id=0,file=0,line=30,span=16
-line	id=1,file=0,line=19,span=10									;
+line	id=1,file=0,line=19,span=10
 line	id=2,file=0,line=11,span=6
 line	id=3,file=0,line=9,span=4
 line	id=4,file=0,line=20,span=11									;
 line	id=5,file=0,line=5,span=0
 line	id=6,file=0,line=18,span=9
 line	id=7,file=0,line=17,span=8
-line	id=8,file=0,line=21,span=12
+line	id=8,file=0,line=21,span=12									;
 line	id=9,file=0,line=22
 line	id=10,file=0,line=7,span=2
 line	id=11,file=0,line=16,span=7
@@ -45,9 +45,9 @@ span	id=6,seg=6,start=12,size=4,type=0
 span	id=7,seg=7,start=0,size=1
 span	id=8,seg=7,start=1,size=2
 span	id=9,seg=7,start=3,size=1
-span	id=10,seg=7,start=4,size=2									;
+span	id=10,seg=7,start=4,size=2
 span	id=11,seg=7,start=6,size=3									;
-span	id=12,seg=7,start=9,size=3
+span	id=12,seg=7,start=9,size=3									;
 span	id=13,seg=7,start=12,size=3
 span	id=14,seg=7,start=0,size=15
 span	id=15,seg=8,start=0,size=8192
